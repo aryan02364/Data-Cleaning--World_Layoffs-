@@ -1,52 +1,50 @@
-📊 World Layoffs – Data Cleaning Project
+# 📊 World Layoffs – Data Cleaning Project
 
-This project focuses on cleaning a global layoffs dataset using MySQL.
+This project focuses on cleaning a global layoffs dataset using **MySQL**.  
 The goal is to convert raw, messy data into a clean dataset ready for analysis.
 
-🔧 Steps I Performed
+---
 
-Removed duplicates
+## 🔧 Steps I Performed
 
-Fixed missing values
+- Removed duplicates  
+- Fixed missing values  
+- Cleaned and formatted date column  
+- Standardized company names and industries  
+- Removed unwanted characters  
+- Created a clean version of the dataset in SQL  
 
-Cleaned and formatted date column
+---
 
-Standardized company names and industries
+## 📁 Files in this Repository
 
-Removed unwanted characters
+- **layoffs.csv** → Raw dataset  
+- **world_layoffs.sql** → Cleaned dataset + cleaning queries  
+- **README.md** → Project description  
 
-Created a clean version of the dataset in SQL
+---
 
-📁 Files in this Repository
+## 🛠 Tools Used
 
-layoffs.csv → Raw dataset
+- MySQL  
+- Excel / CSV  
+- GitHub Desktop  
 
-world_layoffs.sql → Cleaned dataset + cleaning queries
+---
 
-README.md → Project description
-
-🛠 Tools Used
-
-MySQL
-
-Excel / CSV
-
-GitHub Desktop
-
-📌 Purpose of This Project
+## 📌 Purpose of This Project
 
 To practice:
 
-SQL data cleaning
+- SQL data cleaning  
+- Working with real-world messy data  
+- Uploading a project to GitHub  
 
-Working with real-world messy data
+---
 
-Uploading a project to GitHub
-
-🙌 About Me
+## 🙌 About Me
 
 I am learning SQL and data cleaning to grow my skills in data analysis.
 
-👍 Ready to Go!
+---
 
-You can now run the SQL file to create and clean the layoffs dataset.
